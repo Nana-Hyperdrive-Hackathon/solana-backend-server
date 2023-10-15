@@ -1,0 +1,7 @@
+node_modules
+.env
+.nyc_output/116d360f-aae0-456f-82eb-65ccd1dbc8e2.json
+.nyc_output/116d360f-aae0-456f-82eb-65ccd1dbc8e2.json
+.nyc_output/8b4c9af6-f2c4-4b9b-902e-4625e3754826.json
+.nyc_output/processinfo/8b4c9af6-f2c4-4b9b-902e-4625e3754826.json
+*.json
